@@ -32,6 +32,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void doProses() {
-        tvHasil.setText(etNama.getText().toString()+" ("+etUmur.getText().toString()+" tahun");
+        tvHasil.setText(etNama.getText().toString()+" ("+etUmur.getText().toString()+" tahun)");
     }
 }
